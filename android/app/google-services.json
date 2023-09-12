@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "217380092811",
+    "project_id": "flow-chat-42595",
+    "storage_bucket": "flow-chat-42595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217380092811:android:e7db0e09d8c0279f7d8d8e",
+        "android_client_info": {
+          "package_name": "com.example.flowchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217380092811-fl0klmbgm5bjjf8dses2s0m9o4q5ha5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flowchat",
+            "certificate_hash": "4ce00521d48bbd11c08bb22af767530164d9f07b"
+          }
+        },
+        {
+          "client_id": "217380092811-ind535ufpv2dahe24ck6j4ubrf9i0h4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN93Ia7yIYNshMZ-6QySKroYqAFH_buTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217380092811-eh0v4a5uidsmoni38hmhbmom5rbd62l6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217380092811-ofgm4gqk2bg86srt2955lraeb9f8bi6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flowchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,71 @@
+import 'package:get/get.dart' hide Trans;
+
+class LocaleString extends Translations {
+  @override
+  Map<String, Map<String, String>> get keys => {
+        //! ENGLISH LANGUAGE
+        'en_US': {
+          'googleLogin': 'Google Login',
+          'facebookLogin': 'Facebook Login',
+          'appleLogin': 'Apple Login',
+          'login': 'Login',
+          'general': 'General',
+          'darkMode': 'Dark Theme',
+          'language': 'Language',
+          'chooseLang': 'Choose Your Language',
+          'signinwith': 'Sign in with social networks',
+          'letschat': "Let's chat",
+          'chat': 'Chat',
+          'contact': 'Contact',
+          'profile': 'Profile',
+          'account': 'Account',
+          'notification': 'Notification',
+          'privacy': 'Privacy',
+          'help': 'Help',
+          'about': 'About',
+          'logout': 'Logout',
+          'settings': 'Settings',
+          'hellouser': 'Welcome',
+          'monday': 'Mon',
+          'tuesday': 'Tue',
+          'wednesday': 'Wed',
+          'thursday': 'Thu',
+          'friday': 'Fri',
+          'saturday': 'Sat',
+          'sunday': 'Sun',
+          'disabled': 'Disabled'
+        },
+        //! TURKISH Language
+        'tr_TR': {
+          'googleLogin': 'Google ile Giriş',
+          'facebookLogin': 'Facebook ile Giriş',
+          'appleLogin': 'Apple ile Giriş',
+          'login': 'Giriş',
+          'general': 'Genel',
+          'darkMode': 'Karanlık Mod',
+          'language': 'Dil',
+          'chooseLang': 'Dilinizi seçiniz',
+          'signinwith': 'Aşağıdaki seçeneklerden giriş yapınız',
+          'letschat': 'Sohbet Et',
+          'chat': 'Mesaj',
+          'contact': 'Kişiler',
+          'profile': 'Profil',
+          'account': 'Hesabım',
+          'notification': 'Bildirim',
+          'privacy': 'Gizlilik',
+          'help': 'Yardım',
+          'about': 'Hakkında',
+          'logout': 'Çıkış',
+          'settings': 'Ayarlar',
+          'hellouser': 'Hoşgeldiniz',
+          'monday': 'Pzt',
+          'tuesday': 'Sal',
+          'wednesday': 'Çar',
+          'thursday': 'Per',
+          'friday': 'Cum',
+          'saturday': 'Cmt',
+          'sunday': 'Paz',
+          'disabled': 'İnaktif',
+        }
+      };
+}
